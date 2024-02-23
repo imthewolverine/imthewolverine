@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+numchessclub
+nextjs, tailwindcss, reactjs, dynamodb, mongodb, postgresql.
+I’m looking to collaborate on chess type of site.
+super straight.
+Keep look at the mirror or this guy will kill you. Keep your eyes on him.
+  
 <!--
 **imthewolverine/imthewolverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
